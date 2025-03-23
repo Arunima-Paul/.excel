@@ -1,0 +1,35 @@
+Insights from the Amazon Prime Movies Dashboard.
+
+1. Duration Extremes: The Longest and Shortest Movies
+•	The longest movie on the platform is "Kabhi Khushi Kabhie Gham", with a runtime of 209 minutes (not shown in Card though), a Bollywood classic known for its grandeur and emotional depth.
+•	The shortest movie is "Morti’s Law", with a runtime of just 20 minutes, appealing to viewers who prefer quick, concise content.
+
+2. Movie Release Trends Over Time
+•	The analysis of movie release trends reveals a sharp increase in releases post-2000, with a peak around 2018-2020 whereas the earlier decades had a lower percentage of releases.
+•	The surge implies that the content production in recent years aligns with the streaming boom and the growing demand for digital content.
+
+3. Country-wise Movie Distribution
+•	India dominates the platform, contributing the highest number of movies (213, 48%), reflecting the popularity of Bollywood cinema.
+•	The United States also have a significant presence (189, 42%).
+•	A smaller share of movies comes from Canada and collaborations between the UK and the US, showing international diversification.
+
+4. Popular Genres on Amazon Prime
+•	According to the analysis, The Drama genre stands out as the most popular, often combined with elements of comedy, suspense, and international storytelling.
+•	Documentaries and special interest films also have a strong presence, catering to niche audiences who prefer real-life narratives and unique perspectives.
+•	Suspense and thriller movies, though not as dominant as drama, still have a notable share, showing audience interest in gripping storytelling.
+
+5. Top-Ranked Directors
+•	The platform offers a mix of Hollywood, Bollywood, and international filmmakers, contributing to the diverse selection of movies.
+•	Several well-known directors have their movies featured on the platform where Yash Chopra is the Top Director. There are other directors also standing out for consistently high-ranking films.
+
+6. Movie Ratings Breakdown (Bar Chart 3)-
+•	The majority of movies fall under the PG, PG-13, and R ratings, indicating a mix of family-friendly, teen, and mature content.
+•	G-rated movies (for general audiences) are fewer, suggesting that Prime Video may have a relatively lower focus on children’s content compared to other streaming services.
+
+Key Insights gained from the analysis- 
+•	Expanding regional content: as the dominance is mostly of Hollywood movies and Bollywood movies as well, 
+investing in more content from other emerging markets like Korea, Japan, and Latin America can attract a broader audience.
+•	Boosting family-friendly content: With a lower percentage of G-rated movies, increasing children's programming might improve engagement from families.
+•	Diversifying genre focus: While Drama and Comedy genre dominates, introducing sci-fi, fantasy and action movies can appeal to younger audiences and genre enthusiasts.
+
+Dataset obtained from Kaggle.
