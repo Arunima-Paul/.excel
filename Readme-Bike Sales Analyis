@@ -1,0 +1,46 @@
+1.The Bike Sales Analysis Dashboard provides valuable insights into customer demographics, purchasing patterns, and factors influencing bike sales.
+ ~
+ 2.Customer Demographics and Key Metrics - The dataset consists of 1,000 customers, with an average income of 56,360 
+ ~and a total of 481 bikes sold. From these key numbers we can understand who is buying bikes and what factors are driving them to buy.
+ ~
+3.Income and Purchasing Behaviour- 
+ (i) We can see that from the Bar Chart "income-wise bike purchases" reveals that individuals with higher incomes tend to buy more bikes. 
+ (ii) Both male and female buyers show a preference for bikes, but there is a visible variation in purchase volume across different income brackets,
+ ~like Clerical, Management, Manual, Professional and Skilled Manual (2nd Pie Chart).
+ ~
+ 4. Age and Gender Trends in Bike Purchases-
+ (i) For analyzing age-wise purchases, from the 3rd Column Chart we can see that the 30-40 age group emerges as the most active buyers, 
+ ~followed by the 40-50 segment. The 20-30 age group also shows a decent number of purchases, but sales gradually decline among customers aged 50 and above.
+ (ii) Interestingly, males consistently purchase more bikes than females across all age groups.
+ ~
+ 5. Regional Preferences and Distance Factors-
+ (i) Regionally, buyers in North America show higher purchase rates compared to other regions such as the Pacific and Europe (4th Bar Chart).
+ (ii) Distance from the purchase location also influences buying behavior (5th Column Chart).
+ (iii) Most purchases are made by customers living within 0-2 miles of the store, with sales decreasing significantly for those residing farther than 5 miles.
+ ~
+ 6. Education and Occupation Insights-
+ (i) The education level of buyers plays a crucial role in purchasing decisions (6th Line Chart).
+ (ii) Those with higher education degrees, such as graduates, purchase more bikes, while individuals with partial high school education contribute less to sales.
+ (iii) Professionals and skilled manual workers show the highest purchasing power compared to those in clerical or management roles.
+ ~
+ 7. Influence of Homeownership and Marital Status (used as Slicers)-
+(i) Homeowners show a higher tendency to purchase bikes, whereas non-homeowners have relatively lower purchase rates.
+ (ii) Single individuals purchase more bikes compared to married customers, possibly due to different lifestyle preferences.
+ -
+ 
+ ~From the analysis, we can conclude that the ideal target audience for bike sales consists of:
+ 1.	Individuals aged 30-50, especially males.
+ 2.	Customers with higher income levels.
+ 3.	Homeowners and single individuals.
+ 4.	Buyers in North America within 0-2 miles of the store.
+ 5.	Professionals and skilled manual workers.
+ 
+ To boost bike sales further, marketing efforts can focus on:
+ •	Expanding promotions to female customers to bridge the gender gap.
+ •	Targeting married customers with family-oriented biking options.
+ •	Increasing regional outreach beyond North America to untapped markets.
+ 1. Expanding promotions to female customers to bridge the gender gap.
+ 2. Targeting married customers with family-oriented biking options.
+ 3. Increasing regional outreach beyond North America to untapped markets.
+ 
+ The dataset obtained from Kaggle.
