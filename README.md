@@ -4,6 +4,9 @@ The Amazon Prime dashboard is a static one, whereas the Bike Sales Dashboard is 
 Here data analysis by creating pivot tables and charts are shown. Slicers are used for interactive dashboard.
 ![Bike Sales Dashboard](https://github.com/user-attachments/assets/a6022018-625e-4534-a701-1dbc68b80d5e)
 
+![bike sales_pivot](https://github.com/user-attachments/assets/822d12eb-a770-489a-becf-205b70c664b0)
+
+
 **INSIGHTS FROM BIKE SALES ANALYSIS**
 1. The Bike Sales Analysis Dashboard provides valuable insights into customer demographics, purchasing patterns, and factors influencing bike sales.
 
