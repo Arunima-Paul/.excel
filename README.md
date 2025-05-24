@@ -49,9 +49,12 @@ The 20-30 age group also shows a decent number of purchases, but sales gradually
 
 The dataset obtained from Kaggle.
 
+**Insights from the Amazon Prime Movies Dashboard.**
+
 ![Amazon Prime Movies Dashboard](https://github.com/user-attachments/assets/ed4bc4db-aeea-4b4e-adce-4134d8e9bf8c)
 
-**Insights from the Amazon Prime Movies Dashboard.**
+![amazon salesPivot](https://github.com/user-attachments/assets/79a0c5af-0720-4d4b-aafc-919db3b0783e)
+
 
 **1. Duration Extremes: The Longest and Shortest Movies**
 •	The longest movie on the platform is "Kabhi Khushi Kabhie Gham", with a runtime of 209 minutes (not shown in Card though), a Bollywood classic known for its grandeur and emotional depth.
